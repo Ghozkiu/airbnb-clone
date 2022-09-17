@@ -1,3 +1,7 @@
+# Preview
+![alt text](https://i.ibb.co/Yht3j35/Screenshot-1.png)
+![alt text](https://i.ibb.co/VpB6ycr/Screenshot-2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
